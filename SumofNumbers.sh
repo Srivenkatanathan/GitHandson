@@ -20,6 +20,16 @@ Sum=ValueOne+ValueTwo
 
 echo "The sum of valueone and valuetwo is :" $Sum
 
+#############################################
+
+ValueOne=3
+
+ValueTwo=2
+
+Sum=ValueOne*ValueTwo
+
+echo "The sum of valueone and valuetwo is :" $Sum
+
 
 ###############################################
 
