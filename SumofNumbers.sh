@@ -21,3 +21,13 @@ Sum=ValueOne+ValueTwo
 echo "The sum of valueone and valuetwo is :" $Sum
 
 
+###############################################
+
+#Subtracting two numbers
+
+ValueOne=10
+
+ValueTwo=4
+
+Sum=ValueOne-ValueTwo
+
