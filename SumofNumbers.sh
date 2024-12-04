@@ -41,6 +41,7 @@ ValueTwo=4
 
 Sum=ValueOne-ValueTwo
 
+
 ##############################################
 
 
@@ -49,6 +50,15 @@ ValueOne=100
 ValueTwo=6
 
 Sum=ValueOne%ValueTwo
+
+############################################
+
+ValueOne=12
+
+ValueTwo=2
+
+Sum=ValueOne/ValueTwo
+
 
 echo "The sum of valueone and valuetwo is :" $Sum
 
