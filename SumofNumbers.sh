@@ -7,7 +7,7 @@
 
 #Date : 05-12-2024
 
-#The purspose of this file is to add numbers.
+#The purspose of this file is to add two numbers.
 
 ###############################################
 
